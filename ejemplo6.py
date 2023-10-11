@@ -1,0 +1,1 @@
+cubo = lambda x: x * x * x
